@@ -86,16 +86,22 @@
 
 <!-- ⭐ FOTO 2 -->
 <div class="foto">
-    <h2>Foto 2 💕</h2>
-    <img src="foto2.jpg" alt="Foto 2">
-    <p>Escribe un mensaje especial aquí.</p>
+    <h2>Love You 💕</h2>
+    <a href="https://ibb.co/BK6YFPxc"><img src="https://i.ibb.co/4gS03fGK/2.jpg" alt="2" border="0"></a>
+    <p>Quiero quedarme con vos incluso en los dias en que el mundo se vea más complicado de lo normal,
+	   quiero abrazarte cuando sientas que todo se viene abajo y poder tomar tu mano cuando te duela para que sepas
+	   que no me voy a ir a ningun lado no importa que pase ni que tan dificiles se pongan las cosas, estoy con vos.</p>
 </div>
 
 <!-- ⭐ GIF 1 -->
 <div class="gif">
-    <h2>GIF 1 ✨</h2>
-    <img src="gif1.gif" alt="GIF 1">
-    <p>Texto para acompañar este GIF animado.</p>
+    <h2>Everything with u ✨</h2>
+    <a href="https://ibb.co/HLvVLqKv"><img src="https://i.ibb.co/zWcrWZmc/gif.jpg" alt="gif" border="0"></a>
+    <p>No tengas miedo de mostrarme todas tus versiones, la fuerte, frágil, siendo feliz, estando cansada,
+	cuando te reis sin parar, incluso cuando llores sin alguna explicación, quiero conocerlas todas, amarlas y abrazarlas x igual.
+	Mostrame tus sueños más grandes, incluso si crees que son imposibles de conseguir.
+	Mostrame tus heridas, porque estoy dispuesto a amarte de forma incondicional para que no te sientas de esa manera.
+	Mostrame tus miedos, incluso si te da verguenza aceptarlos. S2</p>
 </div>
 
 <!-- ⭐ GIF 2 -->
