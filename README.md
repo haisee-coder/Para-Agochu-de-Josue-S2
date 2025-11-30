@@ -1,2 +1,92 @@
 # AgochuMiReAmor
 Dedicado a mi chanchi más hermosa owo
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>Para Mi Novia ❤️</title>
+    <style>
+        body {
+            margin: 0;
+            padding: 0;
+            font-family: "Verdana", sans-serif;
+            background: linear-gradient(135deg, #ff758c, #ff7eb3);
+            color: white;
+            text-align: center;
+        }
+
+        header {
+            padding: 40px 20px;
+        }
+
+        h1 {
+            font-size: 50px;
+            margin-bottom: 10px;
+        }
+
+        p {
+            font-size: 20px;
+            max-width: 800px;
+            margin: auto;
+        }
+
+        .carta {
+            background: rgba(255, 255, 255, 0.15);
+            padding: 30px;
+            border-radius: 15px;
+            width: 80%;
+            margin: 30px auto;
+            box-shadow: 0 0 10px rgba(255, 255, 255, 0.3);
+        }
+
+        .foto {
+            margin: 20px 0;
+        }
+
+        img {
+            width: 80%;
+            max-width: 400px;
+            border-radius: 15px;
+            box-shadow: 0 0 10px rgba(255, 255, 255, 0.4);
+        }
+
+        footer {
+            margin-top: 40px;
+            padding: 20px;
+            font-size: 18px;
+        }
+    </style>
+</head>
+
+<body>
+
+<header>
+    <h1>❤️ Para Ti, Mi Amor ❤️</h1>
+    <p>Aquí te dejo un pedacito de mi corazón en forma de página web.</p>
+</header>
+
+<div class="carta">
+    <h2>Mi Carta Para Ti</h2>
+    <p>
+        <!-- ✏️ CAMBIA ESTE TEXTO POR TU CARTA -->
+        Mi amor, eres la razón por la que sonrío cada día.  
+        Gracias por estar conmigo y hacer mi vida más bonita.
+        Esto es solo una pequeña forma de recordarte cuánto te amo.
+    </p>
+</div>
+
+<div class="foto">
+    <h2>Nuestras Fotos 💕</h2>
+
+    <!-- 🖼️ CAMBIA LAS RUTAS DE LAS FOTOS POR LAS TUYAS -->
+    <img src="foto1.jpg" alt="Nuestra foto 1">
+    <br><br>
+    <img src="foto2.jpg" alt="Nuestra foto 2">
+</div>
+
+<footer>
+    Hecho con 💖 por mí, para ti.
+</footer>
+
+</body>
+</html>
