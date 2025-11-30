@@ -1,4 +1,4 @@
-<Mi chanchi>
+[<Mi chanchi>
 <html lang="es">
 <head>
     <meta charset="UTF-8">
@@ -141,3 +141,4 @@
 
 </body>
 </html>
+](https://haisee-coder.github.io/Para-Agochu-de-Josue-S2/)
